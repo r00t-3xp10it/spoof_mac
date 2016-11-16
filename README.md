@@ -1,4 +1,4 @@
-# SPOOF_MAC - Change mac addr without using macchanger
+# spoof-mac - mac cloner (NetworkManager9 clone bug)
     Version release : v1.0
     Author : pedro ubuntu  [ r00t-3xp10it ]
     Distros Supported : Linux Kali 1/2/3 (NetworkManager9 clone bug)
