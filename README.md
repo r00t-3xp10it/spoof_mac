@@ -38,6 +38,12 @@
     3º - Run main tool
          sudo ./spoof-mac.sh
 
+# Framework Help Menu
+![spoof-mac](https://dl.dropboxusercontent.com/u/21426454/spoo-mac-banner2.png)
+
+# Framework common vendors Menu
+![spoof-mac](https://dl.dropboxusercontent.com/u/21426454/spoo-mac-banner3.png)
+
 # Framework Main Menu
 ![spoof-mac](https://dl.dropboxusercontent.com/u/21426454/spoo-mac-banner.png)
 
