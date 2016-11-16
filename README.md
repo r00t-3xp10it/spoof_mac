@@ -11,22 +11,23 @@
 
 
 
-# DESCRIPTION
+# Description
     I have installed 'kali 2016.1 rolling' a few days ago, and 'macchanger' tool works well with no problems.
     The problem cames when i have decided to 'update' my distro, ever since that update that iam facing bugs
     at changing my 'mac+ip addr' using macchanger('Network Manager9' have changed the way things normally works)
 
     For Reference:
-    When using NetworkManager(NM9) to access the net, any spoofed mac address(MAC) produced thru the terminal window(TW)
-    using macchanger tool will be over-written by NM9. If no cloned mac address exists in NM9 menu settings, then
-    the device is returned to the device MAC (permanent) and any mac spoofing set by the user thru the TW disappears.
+    When using NetworkManager(NM9) to access the net, any spoofed mac address(MAC) produced thru the terminal
+    window(TW) using macchanger tool will be over-written by NM9. If no cloned mac address exists in NM9 menu
+    settings, then the device is returned to the device MAC (permanent) and any mac spoofing set by the user
+    thru the TW disappears.
 
     'This script was writen to enable me to change my mac address using terminal windows'...
     spoof-mac.sh checks if we are running againts 'Kali distros' and if NM version its 'bigger than:1.2.0 (NM9)'
 
 
 
-# DOWNLOAD/INSTALL
+# Download/Install
     1º - Download framework from github
          tar.gz OR zip OR git clone
 
