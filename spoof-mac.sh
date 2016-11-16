@@ -215,7 +215,7 @@ if [ "$oS" = "Kali" ] && [ $VeR \> $OlD ]; then
     sleep 2
     echo ${BlueF}[*]${white} Restart network-manager...${Reset};
     service network-manager start > /dev/null 2>&1
-    sleep 5
+    sleep 7
 
   # display settings to user
   cUrRe=`ifconfig $iNtEr | grep "ether" | awk {'print $2'}`
