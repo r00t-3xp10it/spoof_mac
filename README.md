@@ -1,5 +1,5 @@
 # spoof-mac - mac cloner (NetworkManager9 clone bug)
-    Version release : v1.0
+    Version release : v1.0 (Belerefon)
     Author : pedro ubuntu  [ r00t-3xp10it ]
     Distros Supported : Linux Kali 1/2/3 (NetworkManager9 clone bug)
     Suspicious-Shell-Activity (SSA) PurpleTeam develop @2016
