@@ -1,3 +1,8 @@
+[![Version](https://img.shields.io/badge/SPOOF_MAC-1.0-brightgreen.svg?maxAge=259200)]()
+[![Build](https://img.shields.io/badge/Supported_OS-linux-orange.svg)]()
+[![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg)]()
+[![AUR](https://img.shields.io/aur/license/yaourt.svg)]()
+
 # spoof-mac - mac cloner (NetworkManager9 clone bug)
     Version release : v1.0 (Belerefon)
     Author : pedro ubuntu  [ r00t-3xp10it ]
